@@ -3,3 +3,8 @@
     "url": "https://github.com/NickStallman/Winet-Extractor",
     "maintainer": "Nick Stallman <nick@nickstallman.net>"
   }
+{
+  "name": "Wade's Custom Add-ons",
+  "url": "https://github.com/wadetucker/home-assistant-winet-2",
+  "maintainer": "Wade Tucker <wade@example.com>"
+}
