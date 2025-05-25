@@ -1,9 +1,9 @@
-name: 'WiNet Extractor'
+name: 'WiNet Extractor 2'
 description: 'Extracts data from WiNet devices and sends to Home Assistant over MQTT.'
 version: '0.2.2'
 stage: 'stable'
-slug: 'winet-extractor'
-url: 'https://github.com/NickStallman/home-assistant-repo/tree/main/winet-extractor'
+slug: 'winet-extractor-2'
+url: 'https://github.com/wadetucker/home-assistant-winet-2/tree/main/winet-extractor-2'
 arch:
   - armhf
   - armv7
